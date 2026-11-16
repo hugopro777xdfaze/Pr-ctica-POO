@@ -1,0 +1,10 @@
+* { box-sizing: border-box; }
+body { margin: 0; padding: 30px; font-family: Arial, sans-serif; background: #f3f3f3; color: #222; }
+main { max-width: 750px; margin: auto; }
+h1 { text-align: center; }
+.task-list { display: grid; gap: 12px; }
+.task-card { background: white; padding: 16px; border: 1px solid #ddd; border-radius: 8px; }
+.task-card p { color: #666; }
+.completed { text-decoration: line-through; color: #888; }
+button { padding: 8px 14px; border: 0; border-radius: 5px; background: #2867c7; color: white; cursor: pointer; }
+button:disabled { background: #888; cursor: default; }

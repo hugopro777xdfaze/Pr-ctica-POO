@@ -1,0 +1,22 @@
+[
+    {
+        "text": "Finish the JavaScript exercise",
+        "category": "Study",
+        "completed": false
+    },
+    {
+        "text": "Buy some food",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "text": "Send the project to the teacher",
+        "category": "Study",
+        "completed": true
+    },
+    {
+        "text": "Clean my desk",
+        "category": "Home",
+        "completed": false
+    }
+]

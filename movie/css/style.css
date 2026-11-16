@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+body { margin: 0; padding: 30px; font-family: Arial, sans-serif; background: #f3f3f3; color: #222; }
+main { max-width: 1000px; margin: auto; }
+h1 { text-align: center; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; }
+.card { background: white; padding: 18px; border: 1px solid #ddd; border-radius: 8px; }
+.card h2 { margin-top: 0; }
+.top-rated { border: 3px solid #d5a900; }

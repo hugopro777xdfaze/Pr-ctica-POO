@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Alex Smith",
+        "position": "Frontend Developer",
+        "department": "Development",
+        "available": true
+    },
+    {
+        "name": "Mia Garcia",
+        "position": "UI Designer",
+        "department": "Design",
+        "available": true
+    },
+    {
+        "name": "Noah Brown",
+        "position": "Backend Developer",
+        "department": "Development",
+        "available": false
+    },
+    {
+        "name": "Emma Wilson",
+        "position": "Graphic Designer",
+        "department": "Design",
+        "available": true
+    },
+    {
+        "name": "Liam Davis",
+        "position": "Project Manager",
+        "department": "Management",
+        "available": false
+    }
+]
